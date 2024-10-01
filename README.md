@@ -4,3 +4,9 @@ Elements of BootstrapVue ported for VueJS3
 All the elements are working according the https://bootstrap-vue.org/ documentation
 
 Not all elements are rewritten, only the one I needed. Feel free to contribute
+
+# install
+
+```
+npm install bootstrap-vuejs3-elements
+```
